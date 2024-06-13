@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.submit{
+    background-color: lightseagreen;
+    color: white;
+    border-color: transparent;
+    border-radius: 6px;
+}
+form{
+    border: solid 2px black;
+    padding: 20px;
+    border-radius: 6px;
+}
